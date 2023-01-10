@@ -1,0 +1,29 @@
+{
+  "name": "automacao_pmais",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ph-gonzaga/automacao_pmais.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ph-gonzaga/automacao_pmais/issues"
+  },
+  "homepage": "https://github.com/ph-gonzaga/automacao_pmais#readme",
+  "devDependencies": {
+    "cypress": "^12.3.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.1.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "esbuild": "^0.16.16",
+    "faker-br": "^0.4.1"
+  }
+}
